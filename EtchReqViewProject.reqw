@@ -4,14 +4,14 @@
     {
       "id": "EtchReqViewProject",
       "name": "EtchReqViewProject",
-      "lastId": 1,
+      "lastId": 2,
       "createdOn": "2017-12-13T10:57:58.568Z",
       "createdBy": {
         "name": "Ahmed Hisham",
         "email": "ahzaghloul171056@gmail.com",
         "company": ""
       },
-      "lastChangedOn": "2017-12-13T10:58:13.410Z",
+      "lastChangedOn": "2017-12-13T11:12:10.575Z",
       "lastChangedBy": {
         "name": "Ahmed Hisham",
         "email": "ahzaghloul171056@gmail.com",
@@ -45,6 +45,38 @@
                 "name": "Ahmed Hisham"
               },
               "changedOn": "2017-12-13T10:58:13.343Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "2",
+              "heading": "new requirement number 2",
+              "text": "<p>negarrab keda eh el kalam</p>",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "",
+                    "email": "ahzaghloul171056@gmail.com",
+                    "name": "Ahmed Hisham"
+                  },
+                  "changedOn": "2017-12-13T11:11:54.876Z",
+                  "docId": "EtchReqViewProject",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "ahzaghloul171056@gmail.com",
+                    "name": "Ahmed Hisham"
+                  },
+                  "changedOn": "2017-12-13T11:12:10.506Z"
+                }
+              ]
             }
           ]
         }
